@@ -3,7 +3,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/shreerajbhamare/PriceTracer">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+<!--     <img src="images/logo.png" alt="Logo" width="80" height="80"> -->
   </a>
 
   <h3 align="center">Price Tracer</h3>
@@ -40,7 +40,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Price Tracer][product-screenshot]](https://github.com/shreerajbhamare/PriceTracer)
 
 **Price Tracer** is developed for everyone indulged in online product shopping at various e-commerce websites, who would want to make their online purchase decisions more sophisticated amidst various pricing strategies i.e offers and sales introduced in the e-commerce market. Price Tracer automates the *tracking of prices of products* sold on e-commerce websites, allowing users to analyze the trends in the prices, send the price drop alerts, and in addition, it is incorporated with the product recommendation system.
 
@@ -50,10 +49,7 @@
 * To track the prices with the helpful graphs and charts. 
 * To provide the recommendation system to the user for ease in shopping.
 
-### Block Diagram
-<p align="center">
-    <img src="images/block_diagram.png" alt="Logo" width="500" height="400">
- </p>
+
 
 ### Full Report
 [Report](https://github.com/shreerajbhamare/PriceTracer/PriceTracer_Mini_Project_Report.pdf)
